@@ -1,2 +1,1 @@
-# hello-world
-a repository I'm making because I don't know how to make a repository
+I'm new to using github and it seems pretty interesting and useful so far!
